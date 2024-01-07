@@ -270,7 +270,7 @@ h1{
     }
 }
 
-,
+
 @media screen and (max-width: 412px) and (max-height: 915px){
     .bubbles {
         width: 84%;
@@ -410,7 +410,7 @@ h1{
 }
 
 
-@media screen and (max-width: 185px) and (max-width: 250px) {
+@media screen and (max-width: 185px) and (max-width: 250px){
     .logo {
         width: 60px;
         cursor: pointer;
